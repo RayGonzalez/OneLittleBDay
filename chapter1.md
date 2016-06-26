@@ -155,4 +155,42 @@ test_error()
 
 success_msg("Conveniently, all of these numbers multiplied together (32,587,706) probably approaches the number of minutes we have all spent talking, walking, laughing, etc. (fermi estimation, ok!) . Here’s to hundreds of thousands more.")
 ```
+--- type:NormalExercise lang:r xp:100 skills:1 key:77fbb9010c
+## You are done!
 
+WUUUUHUUU
+
+*** =instructions
+-  Congrats! 
+
+
+
+
+*** =hint
+
+
+*** =pre_exercise_code
+```{r}
+
+```
+
+*** =sample_code
+```{r}
+#Congratulations, you achieved staying alive for 19 years, that is kinda cool I guess
+```
+
+*** =solution
+```{r}
+#Congratulations, you achieved staying alive for 19 years, that is kinda cool I guess
+```
+
+*** =sct
+```{r}
+# SCT written with testwhat: https://github.com/datacamp/testwhat/wiki
+
+
+
+test_error()
+
+success_msg("Conveniently, all of these numbers multiplied together (32,587,706) probably approaches the number of minutes we have all spent talking, walking, laughing, etc. (fermi estimation, ok!) . Here’s to hundreds of thousands more.")
+```
