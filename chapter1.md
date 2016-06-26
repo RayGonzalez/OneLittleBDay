@@ -58,7 +58,7 @@ success_msg("Happy birthday little garbanzo!!")
 Word games are easy...unless they are in Spanish!
 
 *** =instructions
--  Take the ‘Entero’ word from the previous clue. Create a new word by adding one letter that, in one liddo dialect, is replaced by a ‘t’. Remove the last letter of that word and add a specific constant. This word is a place that was important to your time in San Francisco. 
+-  Take the ‘Decapitado’ word from the previous clue. Add one letter to that word that, in one liddo dialect, is replaced by a ‘t’. Now rearrange all of the letters to create a new word. Replace the last letter of that word with a specific consonant. This word is a place that was important to your time in San Francisco. 
 -  Give your answer as one word, no caps, in the form Answer=""
 
 
