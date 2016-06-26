@@ -125,6 +125,7 @@ B2=
 B3=
 #the spelling bee number of the real BEE in the 2010 bee and the Akiba baby in the 2016 bee
 B4=
+Conveniently, all of these numbers multiplied together (32,587,706) probably approaches the number of seconds we have all spent talking, walking, laughing, etc. (fermi estimation, ok!) . Here’s to hundreds of thousands more. 
 ```
 
 *** =solution
@@ -137,6 +138,7 @@ B2=89
 B3=214
 #the spelling bee number of the real BEE in the 2010 bee and the Akiba baby in the 2016 bee
 B4=59
+Conveniently, all of these numbers multiplied together (32,587,706) probably approaches the number of seconds we have all spent talking, walking, laughing, etc. (fermi estimation, ok!) . Here’s to hundreds of thousands more. 
 ```
 
 *** =sct
@@ -177,16 +179,16 @@ WUUUUHUUU
 *** =sample_code
 ```{r}
 #Congratulations, you achieved staying alive for 19 years, that is kinda cool I guess
-#"We couldn’t imagine a better person to have as a PSC member!" -PSC minus DD
-#Happy 19th birthday DD! We are far more than 100,000,000 lucky to have you as a friend. Thank you for all of the popsicles, spreadsheets, walks, trips to Yosemite (or planned trips to Yosemite…), sunroom hours, farmers market trips, swims in various bodies of water, introductions to a new dialect, and 1000 more. We love you!
+#Happy 19th birthday DD! We are far more than 100,000,000 lucky to have you as a friend and PSC member. Thank you for all of the popsicles, spreadsheets, walks, trips to Yosemite (or planned trips to Yosemite…), sunroom hours, farmers market trips, swims in various bodies of water, introductions to a new dialect, and 1000 more. We love you!
+
 #C D D-D N L-E N R-I: https://docs.google.com/a/minerva.kgi.edu/drawings/d/18wANiKLnXyALbQEB2K8-BClqv2iE8rMdtKzK2MTKKS4/edit?usp=sharing
 ```
 
 *** =solution
 ```{r}
 #Congratulations, you achieved staying alive for 19 years, that is kinda cool I guess
-#"We couldn’t imagine a better person to have as a PSC member!" -PSC minus DD
-#Happy 19th birthday DD! We are far more than 100,000,000 lucky to have you as a friend. Thank you for all of the popsicles, spreadsheets, walks, trips to Yosemite (or planned trips to Yosemite…), sunroom hours, farmers market trips, swims in various bodies of water, introductions to a new dialect, and 1000 more. We love you!
+#Happy 19th birthday DD! We are far more than 100,000,000 lucky to have you as a friend and PSC member. Thank you for all of the popsicles, spreadsheets, walks, trips to Yosemite (or planned trips to Yosemite…), sunroom hours, farmers market trips, swims in various bodies of water, introductions to a new dialect, and 1000 more. We love you!
+
 #C D D-D N L-E N R-I: https://docs.google.com/a/minerva.kgi.edu/drawings/d/18wANiKLnXyALbQEB2K8-BClqv2iE8rMdtKzK2MTKKS4/edit?usp=sharing
 
 ```
