@@ -125,7 +125,7 @@ B2=
 B3=
 #the spelling bee number of the real BEE in the 2010 bee and the Akiba baby in the 2016 bee
 B4=
-Conveniently, all of these numbers multiplied together (32,587,706) probably approaches the number of seconds we have all spent talking, walking, laughing, etc. (fermi estimation, ok!) . Here’s to hundreds of thousands more. 
+#Conveniently, all of these numbers multiplied together (32,587,706) probably approaches the number of seconds we have all spent talking, walking, laughing, etc. (fermi estimation, ok!) . Here’s to hundreds of thousands more. 
 ```
 
 *** =solution
@@ -138,7 +138,7 @@ B2=89
 B3=214
 #the spelling bee number of the real BEE in the 2010 bee and the Akiba baby in the 2016 bee
 B4=59
-Conveniently, all of these numbers multiplied together (32,587,706) probably approaches the number of seconds we have all spent talking, walking, laughing, etc. (fermi estimation, ok!) . Here’s to hundreds of thousands more. 
+#Conveniently, all of these numbers multiplied together (32,587,706) probably approaches the number of seconds we have all spent talking, walking, laughing, etc. (fermi estimation, ok!) . Here’s to hundreds of thousands more. 
 ```
 
 *** =sct
