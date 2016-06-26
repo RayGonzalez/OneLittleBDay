@@ -182,6 +182,10 @@ WUUUUHUUU
 *** =solution
 ```{r}
 #Congratulations, you achieved staying alive for 19 years, that is kinda cool I guess
+#"We couldn’t imagine a better person to have as a PSC member!" -PSC minus DD
+#Happy 19th birthday DD! We are far more than 100,000,000 lucky to have you as a friend. Thank you for all of the popsicles, spreadsheets, walks, trips to Yosemite (or planned trips to Yosemite…), sunroom hours, farmers market trips, swims in various bodies of water, introductions to a new dialect, and 1000 more. We love you!
+#C D D-D N L-E N R-I: https://docs.google.com/a/minerva.kgi.edu/drawings/d/18wANiKLnXyALbQEB2K8-BClqv2iE8rMdtKzK2MTKKS4/edit?usp=sharing
+
 ```
 
 *** =sct
