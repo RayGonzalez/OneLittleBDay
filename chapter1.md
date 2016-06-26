@@ -3,6 +3,8 @@ title       : Insert the chapter title here
 description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+
+
 --- type:NormalExercise lang:r xp:100 skills:1 key:5347fc2fc3
 ## Go solve this wallnut!
 
@@ -51,7 +53,7 @@ success_msg("Happy birthday little garbanzo!!")
 ```
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:5c168e917f
-## Go solve this wallnut!
+## But wait there's more!
 
 Word games are easy...unless they are in Spanish!
 
