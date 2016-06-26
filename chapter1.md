@@ -50,7 +50,7 @@ test_error()
 success_msg("Happy birthday little garbanzo!!")
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:5347fc2fc3
+--- type:NormalExercise lang:r xp:100 skills:1 key:5c168e917f
 ## Go solve this wallnut!
 
 Word games are easy...unless they are in Spanish!
